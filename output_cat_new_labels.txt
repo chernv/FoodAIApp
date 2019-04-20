@@ -1,0 +1,17 @@
+Breads-Cereals
+Fruits
+Nuts-Seeds
+Cheese-Dairy
+Eggs
+Sauces-Spreads
+Vegetables
+Salads
+Sweets-Desserts
+Beverages
+Fish-Seafood
+Soups
+Snacks
+Pasta-Rice-Noodles
+Meat
+Fast-Food
+Beans-Legumes
